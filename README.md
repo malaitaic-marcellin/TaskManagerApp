@@ -85,8 +85,8 @@ To meet the standard, your repository must contain:
 ## 📎 Useful Links
 
 - [PEP8 Style Guide](https://peps.python.org/pep-0008/)
-- [NZQA AS91896](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2023/as91896.pdf)
-- [NZQA AS91897](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2023/as91897.pdf)
+- [NZQA AS91896](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2024/as91896.pdf)
+- [NZQA AS91897](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91897.pdf)
 - [GitHub Docs: Markdown Guide](https://www.markdownguide.org/)
 
 ---
