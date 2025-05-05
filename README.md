@@ -2,8 +2,8 @@
 
 This repository contains your individual project for the combined assessment of:
 
-- **AS91896 v3** – Develop an advanced computer program (Level 2)
-- **AS91897 v3** – Use advanced processes to develop a digital technologies outcome (Level 2)
+- **AS91896 v2** – Develop an advanced computer program (Level 2)
+- **AS91897 v1** – Use advanced processes to develop a digital technologies outcome (Level 2)
 
 ---
 
