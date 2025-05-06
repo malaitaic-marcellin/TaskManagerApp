@@ -88,6 +88,7 @@ To meet the standard, your repository must contain:
 - [NZQA AS91896](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2024/as91896.pdf)
 - [NZQA AS91897](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91897.pdf)
 - [GitHub Docs: Markdown Guide](https://www.markdownguide.org/)
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 ---
 
